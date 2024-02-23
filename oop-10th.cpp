@@ -18,8 +18,8 @@ void show(){
 }
 void add(Traval p){
     Traval t;
-    t.km =km +p.km;
-    t.hr =hr+p.hr;
+    t.km =km +p.km;//supose that you have two variables and you want to add each other so you must make another variable or object .in which you can store the new value of addition of both variables.
+    t.hr =hr+p.hr; 
     cout<<"Total travelling is "<<t.km<<" Kilometers in "<<t.hr<<" hours ";
 }
 };
