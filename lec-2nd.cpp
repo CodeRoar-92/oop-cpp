@@ -118,7 +118,7 @@ A1.show();
 }
 
 
-====================  >>>>>Constructor Overloading<<<<<<<<< ================
+ //====================  >>>>>Constructor Overloading<<<<<<<<< ================
 
 #include<iostream>
 using namespace std;
@@ -159,7 +159,7 @@ return 0;
 }
 
 
-====== >>>> use of this pointer
+//====== >>>> use of this pointer
 #include<iostream>
 using namespace std;
 class myClass{
@@ -199,7 +199,7 @@ return 0;
 }
 
 
-========== >>>>>> Inline Constructor <<<<<< ============
+//========== >>>>>> Inline Constructor <<<<<< ============
 #include<iostream>
 using namespace std;
 class myClass{
