@@ -199,7 +199,7 @@ return 0;
 }
 
 
-//========== >>>>>> Inline Constructor <<<<<< ============
+//w========== >>>>>> Inline Constructor <<<<<< ============
 #include<iostream>
 using namespace std;
 class myClass{
